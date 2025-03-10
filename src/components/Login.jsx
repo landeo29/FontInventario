@@ -4,7 +4,6 @@ import { styled } from "@mui/system";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
-// 🟢 Estilos personalizados 🟢
 const StyledContainer = styled(Container)({
     display: "flex",
     justifyContent: "center",
